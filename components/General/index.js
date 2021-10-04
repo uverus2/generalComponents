@@ -1,5 +1,5 @@
-import JTableRow from "./JTableRow";
-import Button from "./Button";
+import JTableRow from "./TableComponent/JTableRow";
+import Button from "./ButtonComponent/Button";
 
 export {
     JTableRow,
