@@ -7,7 +7,8 @@
     "dist"
   ],
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "directory": "dist"
   },
   "gitHead": "0fcf0954637eeffe39dc9b73c58684c2c457fafa"
 }
