@@ -11,3 +11,8 @@ export default{
   }
 }
 </script>
+<style>
+button {
+  padding:20px;
+}
+</style>
