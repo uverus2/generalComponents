@@ -2,6 +2,10 @@
   "name": "@uverus/general-components",
   "version": "0.8.0",
   "license": "MIT",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
   "publishConfig": {
     "access": "public"
   },
