@@ -1,8 +1,9 @@
 {
   "name": "@uverus/general-components",
   "version": "0.4.0",
+  "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "a07b52a0eb976f6613bf1cddfacdd0eddc405c9e"
+  "gitHead": "4699de4e9cae60f9ff1b772c850238b8eb2db5eb"
 }
