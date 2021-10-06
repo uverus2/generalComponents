@@ -1,5 +1,5 @@
 <template>
-  <button > {{hello}}!! </button>
+  <button > {{hello}}!!s </button>
 </template>
 <script>
 export default{
